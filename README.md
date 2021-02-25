@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-A website for a marketing agency called Horiseon who offer services like Search Engine Optimization, Online Reputation Management and Social Media Marketing.
+A website for a marketing agency called Horiseon, that offers services like Search Engine Optimization, Online Reputation Management and Social Media Marketing.
 
 ## Website
 https://deepikabekal.github.io/Horiseon/
