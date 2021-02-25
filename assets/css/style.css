@@ -65,6 +65,8 @@ p {
 
 /*hero section style ends */
 
+
+/* content section style begins */
 /* utility class style begins */
 .float-left {
     float: left;
@@ -77,8 +79,6 @@ p {
 }
 
 /*utility class style ends */
-
-/* content section style begins */
 
 .content {
     width: 75%;
