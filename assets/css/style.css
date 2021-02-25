@@ -7,6 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
+/* Consolidated the CSS selector and properties to follow semantic structure */
+/* Changed the CSS selector from .header to header */
 /* header section style begins */
 header {
     padding: 20px;
@@ -24,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed the CSS selector from "header div" to "header nav" */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -206,7 +209,7 @@ p {
 
 /*benefit section style ends */
 
-
+/* Changed the CSS selector from .div to footer */
 /* footer section style begins */
 
 footer {
