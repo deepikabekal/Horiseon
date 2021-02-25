@@ -9,7 +9,7 @@ A website for a marketing agency called Horiseon who offer services like Search 
 https://deepikabekal.github.io/Horiseon/
 
 ## Screenshot
-
+<img src="assets/images/Screenshot_Horiseon.jpg" width=100>
 
 ## Technologies Used
 * HTML
@@ -38,3 +38,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## References
+* Study Material for HTML and CSS provided by Trilogy Education Services.
+* MDN Web Docs https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+* How to wrie a kickass README (https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9#template)
+
+
