@@ -41,6 +41,6 @@ THEN I find a concise, descriptive title
 ## References
 * Study Material for HTML and CSS provided by Trilogy Education Services.
 * MDN Web Docs https://developer.mozilla.org/en-US/docs/Glossary/Semantics
-* How to wrie a kickass README (https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9#template)
+* How to write a kickass README (https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9#template)
 
 
